@@ -1,3 +1,3 @@
 $("button").click(function(){
-    // votre code ici
+    $('#bloc').slideToggle(1000, 'linear');
 });
